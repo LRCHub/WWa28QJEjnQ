@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "the perfect pair",
+  "base_artist": "beabadoobee",
+  "createdAt": "2025-12-12T13:29:45.246152Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Perfect Pair",
+      "artist": "beabadoobee",
+      "has_synced": true,
+      "path": "select/01_The_Perfect_Pair_beabadoobee.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Perfect Pair",
+      "artist": "beabadoobee",
+      "has_synced": true,
+      "path": "select/02_The_Perfect_Pair_beabadoobee.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Perfect Pair - Spotify Singles",
+      "artist": "Lovejoy",
+      "has_synced": true,
+      "path": "select/03_The_Perfect_Pair_-_Spotify_Singles_Lovejoy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Perfect Pair",
+      "artist": "Lovejoy",
+      "has_synced": false,
+      "path": "select/04_The_Perfect_Pair_Lovejoy.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "the perfect pair",
+      "artist": "beabadoobee",
+      "has_synced": true,
+      "path": "select/05_the_perfect_pair_beabadoobee.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "the perfect pair (Live in LA)",
+      "artist": "beabadoobee",
+      "has_synced": true,
+      "path": "select/06_the_perfect_pair_(Live_in_LA)_beabadoobee.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "the perfect pair (Live in London)",
+      "artist": "beabadoobee",
+      "has_synced": true,
+      "path": "select/07_the_perfect_pair_(Live_in_London)_beabadoobee.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Beabadoobee - the perfect pair (Lyrics)",
+      "artist": "yv★n",
+      "has_synced": false,
+      "path": "select/08_Beabadoobee_-_the_perfect_pair_(Lyrics)_yv★n.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Perfect Pair - Sped Up",
+      "artist": "INDRAGERSN",
+      "has_synced": false,
+      "path": "select/09_The_Perfect_Pair_-_Sped_Up_INDRAGERSN.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "beabadoobee - the perfect pair (Official Audio)",
+      "artist": "Beabadoobee",
+      "has_synced": true,
+      "path": "select/10_beabadoobee_-_the_perfect_pair_(Official_Audio)_Beabadoobee.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Perfect Pair",
+      "artist": "Lovejoy",
+      "has_synced": true,
+      "path": "select/11_The_Perfect_Pair_Lovejoy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Perfect Pair (Remaster)",
+      "artist": "Lovejoy",
+      "has_synced": false,
+      "path": "select/12_The_Perfect_Pair_(Remaster)_Lovejoy.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The perfect pair (Antidote Live Session)",
+      "artist": "beabadoobee",
+      "has_synced": false,
+      "path": "select/13_The_perfect_pair_(Antidote_Live_Session)_beabadoobee.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "the perfect pair",
+      "artist": "beabadoobee",
+      "has_synced": false,
+      "path": "select/pl_01_the_perfect_pair_beabadoobee.txt"
+    }
+  ]
+}
